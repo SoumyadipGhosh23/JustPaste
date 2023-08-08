@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JustPaste/static/css/main.9f18d0e4.css",
+    "main.js": "/JustPaste/static/js/main.fa9fb93f.js",
+    "static/js/787.29ed3720.chunk.js": "/JustPaste/static/js/787.29ed3720.chunk.js",
+    "static/media/myImage.jpg": "/JustPaste/static/media/myImage.eeabe89f7725a7a10749.jpg",
+    "index.html": "/JustPaste/index.html",
+    "main.9f18d0e4.css.map": "/JustPaste/static/css/main.9f18d0e4.css.map",
+    "main.fa9fb93f.js.map": "/JustPaste/static/js/main.fa9fb93f.js.map",
+    "787.29ed3720.chunk.js.map": "/JustPaste/static/js/787.29ed3720.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f18d0e4.css",
+    "static/js/main.fa9fb93f.js"
+  ]
+}
